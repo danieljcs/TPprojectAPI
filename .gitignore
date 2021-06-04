@@ -38,7 +38,7 @@
 *.config
 *.v2
 .vs/Autorizacion/v16/.suo
-*.json
+
 *.props
 *.pdb
 Autorizacion/bin/Debug/net5.0/Autorizacion.deps.json
