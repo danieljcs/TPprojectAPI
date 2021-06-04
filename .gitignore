@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.cache
+*.config
+*.pdb
+*.txt
+.vs/Autorizacion/v16/.suo
+*.config
+*.v2
+.vs/Autorizacion/v16/.suo
+*.json
+*.props
+*.pdb
+Autorizacion/bin/Debug/net5.0/Autorizacion.deps.json
+Autorizacion/obj/Debug/net5.0/Autorizacion.pdb
+Autorizacion/bin/Debug/net5.0/Autorizacion.pdb
+*.pdb
+/.vs/Autorizacion/v16/Server/sqlite3/db.lock
+/.vs/Autorizacion/v16/Server/sqlite3/storage.ide
+/.vs/Autorizacion/v16/Server/sqlite3
